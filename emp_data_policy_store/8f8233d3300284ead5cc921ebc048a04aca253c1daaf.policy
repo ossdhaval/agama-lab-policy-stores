@@ -1,4 +1,4 @@
-@id("Allow ops to perform only GET")
+@id("Forbid write for ops")
 forbid (
   principal in Jans::Role::"ops",
   action in [Jans::Action::"Write"],
