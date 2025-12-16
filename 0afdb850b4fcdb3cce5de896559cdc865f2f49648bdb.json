@@ -9,6 +9,11 @@
                     "description": "Allow ops to perform only GET",
                     "creation_date": "2025-12-16T12:28:32.542856",
                     "policy_content": "QGlkKCJBbGxvdyBvcHMgdG8gcGVyZm9ybSBvbmx5IEdFVCIpCmZvcmJpZCAoCiAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJvcHMiLAogIGFjdGlvbiBpbiBbSmFuczo6QWN0aW9uOjoiV3JpdGUiXSwKICByZXNvdXJjZQopOw=="
+                },
+                "e14ebb0f003a4887675f475f6e1dbfacfe20a91eb959": {
+                    "description": "Allow ops to perform only GET",
+                    "creation_date": "2025-12-16T12:30:36.866920",
+                    "policy_content": "QGlkKCJBbGxvdyBvcHMgdG8gcGVyZm9ybSBvbmx5IEdFVCIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJvcHMiLAogIGFjdGlvbiBpbiBbSmFuczo6QWN0aW9uOjoiUmVhZCJdLAogIHJlc291cmNlCik7"
                 }
             },
             "trusted_issuers": {},
