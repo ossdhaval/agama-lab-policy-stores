@@ -2,7 +2,7 @@
     "cedar_version": "4.4.0",
     "policy_stores": {
         "0afdb850b4fcdb3cce5de896559cdc865f2f49648bdb": {
-            "name": "emp_data_policy_store",
+            "name": "ops_policy_store",
             "description": "",
             "policies": {
                 "8f8233d3300284ead5cc921ebc048a04aca253c1daaf": {
