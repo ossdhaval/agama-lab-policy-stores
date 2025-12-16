@@ -6,9 +6,9 @@
             "description": "",
             "policies": {
                 "8f8233d3300284ead5cc921ebc048a04aca253c1daaf": {
-                    "description": "Allow ops to perform only GET",
+                    "description": "Forbid write for ops",
                     "creation_date": "2025-12-16T12:28:32.542856",
-                    "policy_content": "QGlkKCJBbGxvdyBvcHMgdG8gcGVyZm9ybSBvbmx5IEdFVCIpCmZvcmJpZCAoCiAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJvcHMiLAogIGFjdGlvbiBpbiBbSmFuczo6QWN0aW9uOjoiV3JpdGUiXSwKICByZXNvdXJjZQopOw=="
+                    "policy_content": "QGlkKCJGb3JiaWQgd3JpdGUgZm9yIG9wcyIpCmZvcmJpZCAoCiAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJvcHMiLAogIGFjdGlvbiBpbiBbSmFuczo6QWN0aW9uOjoiV3JpdGUiXSwKICByZXNvdXJjZQopOw=="
                 },
                 "e14ebb0f003a4887675f475f6e1dbfacfe20a91eb959": {
                     "description": "Allow ops to perform only GET",
