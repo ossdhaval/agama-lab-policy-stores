@@ -11,9 +11,9 @@
                     "policy_content": "QGlkKCJGb3JiaWQgd3JpdGUgZm9yIG9wcyIpCmZvcmJpZCAoCiAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJvcHMiLAogIGFjdGlvbiBpbiBbSmFuczo6QWN0aW9uOjoiV3JpdGUiXSwKICByZXNvdXJjZQopOw=="
                 },
                 "e14ebb0f003a4887675f475f6e1dbfacfe20a91eb959": {
-                    "description": "Allow ops to perform only GET",
+                    "description": "Allow ops to perform only Read",
                     "creation_date": "2025-12-16T12:30:36.866920",
-                    "policy_content": "QGlkKCJBbGxvdyBvcHMgdG8gcGVyZm9ybSBvbmx5IEdFVCIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJvcHMiLAogIGFjdGlvbiBpbiBbSmFuczo6QWN0aW9uOjoiUmVhZCJdLAogIHJlc291cmNlCik7"
+                    "policy_content": "QGlkKCJBbGxvdyBvcHMgdG8gcGVyZm9ybSBvbmx5IFJlYWQiKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoib3BzIiwKICBhY3Rpb24gaW4gW0phbnM6OkFjdGlvbjo6IlJlYWQiXSwKICByZXNvdXJjZQopOw=="
                 }
             },
             "trusted_issuers": {
