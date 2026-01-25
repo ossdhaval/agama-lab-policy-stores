@@ -18,9 +18,9 @@
             },
             "trusted_issuers": {
                 "81a0c52b7f1da464804743ad96e5825e923451671406": {
-                    "name": "ostrich",
+                    "name": "squirrel",
                     "description": "",
-                    "openid_configuration_endpoint": "http://ossdhaval-learning-ostrich.gluu.info/.well-known/openid-configuration",
+                    "openid_configuration_endpoint": "https://ossdhaval-maximum-squirrel.gluu.info/.well-known/openid-configuration",
                     "token_metadata": {
                         "access_token": {
                             "trusted": true,
