@@ -18,9 +18,9 @@
             },
             "trusted_issuers": {
                 "81a0c52b7f1da464804743ad96e5825e923451671406": {
-                    "name": "propercow",
+                    "name": "ostrich",
                     "description": "",
-                    "openid_configuration_endpoint": "https://ossdhaval-proper-cow.gluu.info/.well-known/openid-configuration",
+                    "openid_configuration_endpoint": "https://ossdhaval-learning-ostrich.gluu.info/.well-known/openid-configuration",
                     "token_metadata": {
                         "access_token": {
                             "trusted": true,
