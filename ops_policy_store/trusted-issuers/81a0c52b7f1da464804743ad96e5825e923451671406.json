@@ -1,0 +1,56 @@
+{
+    "id": "81a0c52b7f1da464804743ad96e5825e923451671406",
+    "name": "squirrel",
+    "description": "",
+    "configuration_endpoint": "https://ossdhaval-maximum-squirrel.gluu.info/.well-known/openid-configuration",
+    "token_metadata": {
+        "access_token": {
+            "trusted": true,
+            "entity_type_name": "Jans::Access_token",
+            "user_id": "sub",
+            "token_id": "jti",
+            "workload_id": "rp_id",
+            "claim_mapping": {},
+            "required_claims": [
+                "jti",
+                "iss",
+                "aud",
+                "sub",
+                "exp",
+                "nbf"
+            ],
+            "role_mapping": "role",
+            "principal_mapping": [
+                "Jans::Workload"
+            ]
+        },
+        "id_token": {
+            "trusted": true,
+            "entity_type_name": "Jans::id_token",
+            "user_id": "sub",
+            "token_id": "jti",
+            "role_mapping": "role",
+            "claim_mapping": {},
+            "principal_mapping": [
+                "Jans::User"
+            ]
+        },
+        "userinfo_token": {
+            "trusted": true,
+            "entity_type_name": "Jans::Userinfo_token",
+            "user_id": "sub",
+            "token_id": "jti",
+            "role_mapping": "role",
+            "claim_mapping": {},
+            "principal_mapping": [
+                "Jans::User"
+            ]
+        },
+        "tx_token": {
+            "trusted": true,
+            "entity_type_name": "Jans::Access_token",
+            "user_id": "sub",
+            "token_id": "jti"
+        }
+    }
+}
